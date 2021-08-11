@@ -31,7 +31,132 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles/styles.scss",
+              {
+                "input": "src/styles/bootswatch/theme-cerulean.scss",
+                "bundleName": "theme-cerulean",
+                "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-cosmo.scss",
+                  "bundleName": "theme-cosmo",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-cyborg.scss",
+                  "bundleName": "theme-cyborg",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-darkly.scss",
+                  "bundleName": "theme-darkly",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-flatly.scss",
+                  "bundleName": "theme-flatly",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-journal.scss",
+                  "bundleName": "theme-journal",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-litera.scss",
+                  "bundleName": "theme-litera",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-lumen.scss",
+                  "bundleName": "theme-lumen",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-lux.scss",
+                  "bundleName": "theme-lux",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-materia.scss",
+                  "bundleName": "theme-materia",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-minty.scss",
+                  "bundleName": "theme-minty",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-morph.scss",
+                  "bundleName": "theme-morph",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-pulse.scss",
+                  "bundleName": "theme-pulse",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-quartz.scss",
+                  "bundleName": "theme-quartz",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-sandstone.scss",
+                  "bundleName": "theme-sandstone",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-simplex.scss",
+                  "bundleName": "theme-simplex",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-sketchy.scss",
+                  "bundleName": "theme-sketchy",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-slate.scss",
+                  "bundleName": "theme-slate",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-solar.scss",
+                  "bundleName": "theme-solar",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-spacelab.scss",
+                  "bundleName": "theme-spacelab",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-superhero.scss",
+                  "bundleName": "theme-superhero",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-united.scss",
+                  "bundleName": "theme-united",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-vapor.scss",
+                  "bundleName": "theme-vapor",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-yeti.scss",
+                  "bundleName": "theme-yeti",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-zephyr.scss",
+                  "bundleName": "theme-zephyr",
+                  "inject": false
+              }
             ],
             "scripts": []
           },
@@ -99,7 +224,132 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles/styles.scss",
+              {
+                "input": "src/styles/bootswatch/theme-cerulean.scss",
+                "bundleName": "theme-cerulean",
+                "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-cosmo.scss",
+                  "bundleName": "theme-cosmo",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-cyborg.scss",
+                  "bundleName": "theme-cyborg",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-darkly.scss",
+                  "bundleName": "theme-darkly",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-flatly.scss",
+                  "bundleName": "theme-flatly",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-journal.scss",
+                  "bundleName": "theme-journal",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-litera.scss",
+                  "bundleName": "theme-litera",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-lumen.scss",
+                  "bundleName": "theme-lumen",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-lux.scss",
+                  "bundleName": "theme-lux",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-materia.scss",
+                  "bundleName": "theme-materia",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-minty.scss",
+                  "bundleName": "theme-minty",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-morph.scss",
+                  "bundleName": "theme-morph",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-pulse.scss",
+                  "bundleName": "theme-pulse",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-quartz.scss",
+                  "bundleName": "theme-quartz",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-sandstone.scss",
+                  "bundleName": "theme-sandstone",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-simplex.scss",
+                  "bundleName": "theme-simplex",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-sketchy.scss",
+                  "bundleName": "theme-sketchy",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-slate.scss",
+                  "bundleName": "theme-slate",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-solar.scss",
+                  "bundleName": "theme-solar",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-spacelab.scss",
+                  "bundleName": "theme-spacelab",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-superhero.scss",
+                  "bundleName": "theme-superhero",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-united.scss",
+                  "bundleName": "theme-united",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-vapor.scss",
+                  "bundleName": "theme-vapor",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-yeti.scss",
+                  "bundleName": "theme-yeti",
+                  "inject": false
+              },
+              {
+                  "input": "src/styles/bootswatch/theme-zephyr.scss",
+                  "bundleName": "theme-zephyr",
+                  "inject": false
+              }
             ],
             "scripts": []
           }
